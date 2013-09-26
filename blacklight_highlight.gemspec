@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
 
-  s.add_dependency "rails", "~> 3.0"
+  s.add_dependency "rails", "~> 4.0"
   s.add_dependency "blacklight", "~> 3.2"
   s.add_dependency "rsolr"
   s.add_dependency "rsolr-ext"
